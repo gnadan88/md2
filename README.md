@@ -1,7 +1,7 @@
 # State Variable
 
 ## **The concept of State Variable**
-* state = system의 내부상
+* state = system의 내부상태
 * 문제를 푸는 과정에 의미부여
 * 컴퓨터에게 일을 시키기 쉽게 식을 바꿔나가는 과정
 
